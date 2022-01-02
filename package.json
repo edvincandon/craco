@@ -1,5 +1,6 @@
 {
     "name": "craco",
+    "version": "6.4.3",
     "private": true,
     "scripts": {
         "publish": "lerna publish --progress --force-publish",
